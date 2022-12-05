@@ -2,8 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raylax&layout=compact&hide=css,html,ejs,less,sass&theme=prussian)
 
-![Visitor Count](https://profile-counter.glitch.me/raylax/count.svg)
-
 <!--
 [![idns](https://github-readme-stats.vercel.app/api/pin/?username=raylax&repo=idns&theme=prussian)](https://github.com/raylax/idns)
 [![lite-json](https://github-readme-stats.vercel.app/api/pin/?username=raylax&repo=lite-json&theme=prussian)](https://github.com/raylax/lite-json)
