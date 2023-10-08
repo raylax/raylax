@@ -1,1 +1,1 @@
-raylax or relax ~
+raylax and relax ~
